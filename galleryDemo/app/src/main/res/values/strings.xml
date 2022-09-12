@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">StickyGridHeaders</string>
+    <string name="check_number">选中%1$d项</string>
+    <string name="image_vedio_num">总共%1$d张照片,%2$d个视频</string>
+    <string name="delete_pic">删除</string>
+    <string name="select_none">全不选</string>
+    <string name="select_all">全选</string>
+    <string name="loading_file">正在加载...</string>
+    <string name="deleting">删除中...</string>
+
+    <string name="pull_to_refresh">下拉界面同步设备相册</string>
+    <string name="release_to_refresh">释放同步</string>
+    <string name="refreshing">正在与设备同步中…</string>
+    <string name="not_updated_yet">暂未更新过</string>
+    <string name="updated_at">上次更新于%1$s前</string>
+    <string name="updated_just_now">刚刚更新</string>
+    <string name="time_error">时间有问题</string>
+    <string name="beauty_mirror_gallery">相册</string>
+    <string name="delete_size_photo">是否删除已选择的%1$d张照片？</string>
+    <string name="delete_size_vedio_photo">是否删除已选择的%1$d项内容？</string>
+    <string name="delete_this_vedio">是否删除此视频</string>
+    <string name="delete_this_photo">是否删除此照片</string>
+    <string name="cancle">取消</string>
+    <string name="ensure">确定</string>
+
+</resources>
